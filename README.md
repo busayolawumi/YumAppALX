@@ -35,8 +35,6 @@ Contributions to RecipeRadar are welcome and encouraged! To contribute:
 4. Push to the branch: `git push origin feature/my-feature`.
 5. Submit a pull request detailing your changes.
 
-## Related Projects
-
 
 ## Licensing
 
